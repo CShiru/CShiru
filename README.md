@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm CShiru
 
 <!--
 **CShiru/CShiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<details>
- <img align="left" src="https://github-readme-stats-cshiru7.vercel.app/api?username=cshiru&show_icons=true"/>
+<a href="https://github.com/cshiru">
+  <img align="left" src="https://github-readme-stats-cshiru7.vercel.app/api?username=cshiru&show_icons=true" />
+</a>
 
-</details>
+
